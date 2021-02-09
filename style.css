@@ -1,0 +1,33 @@
+ul li {
+    display: inline;
+    margin-left:2% ;
+}
+body {
+    width: 960px;
+    margin: auto;
+  
+}
+
+.aq{
+float:left;
+margin: 1%;
+}
+
+p{
+line-height: 1.5;
+}
+
+h1{
+    text-align: center;
+}
+.aa{
+
+
+    float: right;
+    margin: 1%;
+}
+h3{
+
+    color: red;
+    text-align: center;
+}
